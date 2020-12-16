@@ -19,7 +19,7 @@ const about = () =>(
                 <Text fontSize="lg"><Link href="https://www.coindesk.com/price/bitcoin" isExternal> Coindesk Bitcoin Price Index API <ExternalLinkIcon mx="2px" /></Link></Text>
             </ListItem>
         </UnorderedList>
-        <Text fontSize="lg"><Link href="https://www.coindesk.com/price/bitcoin" isExternal> Github <ExternalLinkIcon mx="2px" /></Link></Text>    
+        <Text fontSize="lg"><Link href="https://github.com/A9-dev/Bitcoin-app" isExternal> Github <ExternalLinkIcon mx="2px" /></Link></Text>    
     </Box>
 )
 export default about  
