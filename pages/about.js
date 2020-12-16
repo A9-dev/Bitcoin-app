@@ -2,7 +2,7 @@ import Navbar from "../components/Navbar";
 import { Heading, Box, Text, UnorderedList, ListItem, Link,  } from "@chakra-ui/react"
 import {ExternalLinkIcon} from "@chakra-ui/icons"
 const about = () =>(
-    <Box p={5}>
+    <Box p={2}>
         <Navbar />
         <Heading as="h3" size="lg">This app was built using: </Heading>
         <UnorderedList p={10}>
